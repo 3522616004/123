@@ -22,7 +22,7 @@ loadstring(game:HttpGet("https://ghproxy.com/https://raw.githubusercontent.com/C
 
 	- i remember when i had leaked the script in floppaware before it was gonna be in pendulum hub premium
 ]]
-getgenv()._reanimate()
+
 
 --[[
 
